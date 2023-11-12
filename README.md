@@ -1,4 +1,4 @@
-# Academic-Support-Club-Data-Structures-Materials
+# Data Structures course materials 
 This is the repository of Academic Support Club at IUT where you can find materials regarding the Data Structures.
 
 Our main goal is to provide:
